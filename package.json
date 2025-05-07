@@ -6,7 +6,7 @@
         "packages/*"
     ],
     "devDependencies": {
-        "concurrently": "^8.2.1",
+        "concurrently": "^9.0.0",
         "fern-api": "0.16.22",
         "husky": "^8.0.3",
         "lint-staged": "^14.0.1",
